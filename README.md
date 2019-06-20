@@ -15,19 +15,19 @@ Om de weekly Mingles te lezen, kan de volgende link bekeken worden: <br>
 [Zie hier de link](https://github.com/Karinliu/weekly-nerd-1819/blob/master/weekly_mingle/weekly_mingle.md)
 
 
-##### Artikel
+##### Article
 Naast de weekly mingles, zijn er drie artikelen geschreven. 
 
-*@supports*
+* *@supports* <br>
 Het eerste artikel gaat over @supports. Om dit artikel te lezen, kan de volgende link bekeken worden: <br>
 [Zie hier de link](https://github.com/Karinliu/weekly-nerd-1819/tree/master/%40supports)
 
-*Sockets.io*
+* *Sockets.io*<br>
 Het tweede artikel gaat over Sockets.io. Om dit artikel te lezen, kan de volgende link bekeken worden: <br>
 [Zie hier de link](https://github.com/Karinliu/weekly-nerd-1819/tree/master/sockets.io)
 
 
-*Derde artikel*
+* *Derde artikel*<br>
 Het derde artikel gaat over Sockets.io. Om dit artikel te lezen, kan de volgende link bekeken worden: <br>
 [Zie hier de link](https://github.com/Karinliu/weekly-nerd-1819/blob/master/three_layers/three_layers.md)
 
