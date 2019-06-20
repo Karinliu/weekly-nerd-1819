@@ -6,6 +6,8 @@ On the web we know three layers: <br>
 
 But what are these layers and in why should we separate these layers? The first thing you should know is dat `HTML` is used for creating the structure of sites. For styling your layout of your webpage and to make it responsive you use `CSS`. For the last layout `Javascript` is used to control the behavior of the different kind of elements.
 
+<img width="1280" alt="Screenshot 2019-06-20 21 45 18" src="https://user-images.githubusercontent.com/32538678/59876896-fc666780-93a4-11e9-9bbe-2cdd2983981b.png">
+
 ### Why you should split your code into this three layers
 First of all why it is better to split your code into this three layers, it gives you a clear and better structure to your code. The other reasons why it is better to split into this layers are: <br>
 

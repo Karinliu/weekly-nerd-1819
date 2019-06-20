@@ -30,5 +30,5 @@ Het tweede artikel gaat over Sockets.io. Om dit artikel te lezen, kan de volgend
 
 * *Derde artikel*<br>
 Het derde artikel gaat over Sockets.io. Om dit artikel te lezen, kan de volgende link bekeken worden: <br>
-[Zie hier de link](https://github.com/Karinliu/weekly-nerd-1819/blob/master/three_layers/three_layers.md)
+[Zie hier de link](https://github.com/Karinliu/weekly-nerd-1819/tree/master/three_layers)
 
