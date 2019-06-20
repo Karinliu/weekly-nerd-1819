@@ -126,4 +126,4 @@ The last test is with Internet Explorer 11. Because IE does not support @support
 The browser now looks like this:
 <img width="1280" alt="Screenshot 2019-06-18 22 19 50" src="https://user-images.githubusercontent.com/32538678/59718416-75858380-921a-11e9-883a-ecf4d7342e09.png">
 
-And it is true. The browser shows purple text.
+And it is true. The browser shows red text.
