@@ -1,0 +1,22 @@
+div {
+  display: flex;
+  flex-wrap: wrap;
+  color: red;
+}
+
+@supports not (display: grid) {
+  div {
+    display: flex;
+    flex-wrap: wrap;
+    color: orange;
+  }
+}
+
+@supports (display: grid) {
+  div {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-gap: 2rem;
+    color: green;
+  }
+}
