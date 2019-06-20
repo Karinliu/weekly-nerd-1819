@@ -1,6 +1,5 @@
 # @cmda-minor-web · 2018-2019
 
-
 ##### Weekly Nerd
 Elke week is er op woensdagmiddag de Weekly Nerd die bestaat uit: workshops, praatjes en lezingen van bedrijven en designers over het vakgebied.
 

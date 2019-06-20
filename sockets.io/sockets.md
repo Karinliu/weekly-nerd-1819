@@ -5,8 +5,8 @@ Socket is a Javascript library for realtime web applications. It allows communic
 Socket 
 To start with Socket you first need to install a npm package by typing in: `npm install socket.io`. The next step is to make two files: <br>
 
-• Server file (`app.js`), this one manages the connections between the different clients who are connected to the website.
-• Client file (`client.js`), this file connects to the server and displays the results in the browser.
+* Server file (`app.js`), this one manages the connections between the different clients who are connected to the website.
+* Client file (`client.js`), this file connects to the server and displays the results in the browser.
 
 *Server file*
 In the server file (`app.js`), you load in the socket library with the following code: <br>
@@ -79,9 +79,9 @@ When the data from the client is sended to the server, you can send the data bac
 
 ##### *Remember to do*
 What you always have to do by creating an real time web application: <br>
-• Send data from client back to server. <br>
-• The data from server send it back to other clients. <br>
-• Do not send the data from server back to the client when he/she already has this data. <br>
+* Send data from client back to server. <br>
+* The data from server send it back to other clients. <br>
+* Do not send the data from server back to the client when he/she already has this data. <br>
 
 ## What can you make with Socket?
 Socket.io library you can make many different kind of applications with it.
@@ -103,22 +103,22 @@ By filling in their hashtag and username, the data is emit from my `client.js` t
 When the user submitted their hashtag and username, they can interact with each other by joining a room together. To work out this step of the application, you already can see that there are a lot of actions happen between the client and server.
 
 For example: <br>
-Step 1. Client can click on user for interacting. <br>
-Step 2. When client clicked on other user, it HAS to send it back to the server. <br>
-Step 3. Server received the invite and send it back to the user. <br>
+1. Client can click on user for interacting. <br>
+2. When client clicked on other user, it HAS to send it back to the server. <br>
+3. Server received the invite and send it back to the user. <br>
 
-Step 4. User accept/denied the invite<br>
-Step 5. Invite that is accepted/denied is sended back to the server. <br>
-Step 6. Server creates a room that both users can join. <br>
-Step 7. Both users are in new room (new pagescreen).
+4. User accept/denied the invite<br>
+5. Invite that is accepted/denied is sended back to the server. <br>
+6. Server creates a room that both users can join. <br>
+7. Both users are in new room (new pagescreen).
 
 As you can see, there are many actions that are done between server and client. To perform all these actions, a lot of socket.emit and socket.on takes place between client and server that sends data back and forth.
 
 ##### Not finished yet
 Once this step has been completed, the interaction between users now really begins! After both users joined the room together. They can do the following things: <br>
-• They can chat with each other. <br>
-• Adding an filter over the images. <br>
-• When the filter is added, the other user will also see the changes. <br>
+* They can chat with each other. <br>
+* Adding an filter over the images. <br>
+* When the filter is added, the other user will also see the changes. <br>
 
 As you can see in the interaction that can be done, there are also a number of data transmissions in between (socket.emit, socket.on).
 
